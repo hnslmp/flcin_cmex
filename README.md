@@ -1,5 +1,5 @@
 # FUZZY LOGIC CONTROLLER FOR 3 PHASE INDUCTION MOTOR CONTROL USING MATLAB CMEX
-MATLAB Cmex simulation code for fuzzy logic controller application in 3 phase induction motor control.
+C code for MATLAB Cmex simulation of fuzzy logic controller application in 3 phase induction motor control.
 This code is a simulation of the paper "Review and Investigation of Simplified Rules Fuzzy Logic Speed Controller of High Performance Induction Motor Drives"
 
 Paper link : https://ieeexplore.ieee.org/document/9017993
